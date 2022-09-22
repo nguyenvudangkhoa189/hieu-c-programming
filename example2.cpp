@@ -3,6 +3,11 @@
 #include <string>
 using namespace std;
 
+void test()
+{
+	printf("\nThis is a test function");
+}
+
 int main() {
     int number;
 
